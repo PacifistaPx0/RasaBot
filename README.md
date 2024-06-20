@@ -5,7 +5,8 @@ This project contains a Rasa chatbot with additional functionalities.
 ## Setup Instructions
 
 ### Prerequisites
-- Python 3.7+
+- Python 3.6 - 3.8 (64-bit)
+- upgrade to latest version of pip in your virtual environment
 - pip (Python package installer)
 
 ### Installation
